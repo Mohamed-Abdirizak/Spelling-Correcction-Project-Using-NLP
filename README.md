@@ -1,0 +1,1 @@
+![Mohamed Abdirizak Ahmed's Video - Jun 24, 2024](https://github.com/Mohamed-Abdirizak/Getting-Started-with-NLP-Section-13-Spelling-Correction-project/assets/63655278/9d037717-7227-4620-a0af-619b50c8bd8c)
