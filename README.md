@@ -1,1 +1,3 @@
-![Mohamed Abdirizak Ahmed's Video - Jun 24, 2024](https://github.com/Mohamed-Abdirizak/Getting-Started-with-NLP-Section-13-Spelling-Correction-project/assets/63655278/9d037717-7227-4620-a0af-619b50c8bd8c)
+How the website looks like:
+
+![Mohamed Abdirizak Ahmed's Video - Jul 9, 2024 (5)](https://github.com/Mohamed-Abdirizak/Spelling-Correcction-Project-Using-NLP/assets/63655278/4cdb1696-abdd-4907-91f8-17b486ef00ab)
